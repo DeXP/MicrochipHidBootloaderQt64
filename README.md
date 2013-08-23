@@ -1,4 +1,4 @@
 MicrochipHidBootloaderQt64
 ==========================
 
-HID Bootloader from "USB/Software - Crossplatform", patched for x64
+HID Bootloader from "libraries/USB/Device - Bootloaders/HID/Software - Crossplatform", patched for x64
